@@ -1,0 +1,8 @@
+{
+"env": {
+      "development" : {
+        "compact": false
+      }
+    },
+	'presets' : ['env','react']       
+}
